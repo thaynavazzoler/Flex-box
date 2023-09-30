@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+
+.janela1{
+    background-color:red ;
+    width: 200px;
+    height: 200px;
+}
+
+.janela2{
+    background-color:blue;
+    width: 200px;
+    height: 200px;
+}
+
+.janela3{
+    background-color:green;
+    width: 200px;
+    height: 200px;
+}
